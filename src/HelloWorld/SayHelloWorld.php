@@ -1,7 +1,10 @@
 <?php
 
 namespace HelloWorld;
-
+/**
+ * Class SayHelloWorld
+ * @package HelloWorld
+ */
 class SayHelloWorld
 {
     public static function world()
